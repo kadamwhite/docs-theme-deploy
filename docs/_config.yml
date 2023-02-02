@@ -1,4 +1,4 @@
-remote_theme: kadamwhite/docs-theme-test
+remote_theme: humanmade/just-the-hm-docs
 
 title: Webpack Helpers
 description: Human Made's toolkit for modern frontend asset bundling.
